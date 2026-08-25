@@ -10,8 +10,8 @@
   <br><br>
   
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-110A1F?style=for-the-badge&logo=vercel&logoColor=8A2BE2&labelColor=0D1117&color=110A1F"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-110A1F?style=for-the-badge&logo=linkedin&logoColor=8A2BE2&labelColor=0D1117&color=110A1F"/></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-110A1F?style=for-the-badge&logo=gmail&logoColor=8A2BE2&labelColor=0D1117&color=110A1F"/></a>
+  <a href="https://www.linkedin.com/in/abishek-n-743139400?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-110A1F?style=for-the-badge&logo=linkedin&logoColor=8A2BE2&labelColor=0D1117&color=110A1F"/></a>
+  <a href="mailto: abisheknamachivaym@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Email-110A1F?style=for-the-badge&logo=gmail&logoColor=8A2BE2&labelColor=0D1117&color=110A1F"/></a>
   <a href="https://github.com/AbishekCoder1"><img src="https://img.shields.io/badge/GitHub-110A1F?style=for-the-badge&logo=github&logoColor=8A2BE2&labelColor=0D1117&color=110A1F"/></a>
 
   <br><br>
